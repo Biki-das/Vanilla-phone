@@ -1,0 +1,26 @@
+{
+  "name": "promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0",
+    "jsdom": "^22.1.0",
+    "live-server": "^1.2.2",
+    "use": "^3.1.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.22.5",
+    "@testing-library/dom": "^9.3.1",
+    "babel-jest": "^29.5.0",
+    "jest-environment-jsdom": "^29.5.0",
+    "text-encoding": "^0.7.0"
+  }
+}
